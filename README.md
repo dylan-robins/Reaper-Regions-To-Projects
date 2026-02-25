@@ -32,7 +32,7 @@ A REAPER script to automatically create separate projects from regions. Perfect 
 2. In REAPER, open ReaPack (Extensions → ReaPack → Browse packages)
 3. Search for "Regions to Subprojects" or add this repository URL:
    ```
-   https://github.com/MPihlap/Reaper-Regions-To-Projects
+   https://github.com/dylan-robins/Reaper-Regions-To-Projects
    ```
 4. Install the script and it will auto-update with new versions
 
